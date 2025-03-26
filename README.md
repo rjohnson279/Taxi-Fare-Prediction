@@ -1,5 +1,4 @@
 # Taxi Fare Prediction
-### Final Project-DSCI 617
 
 You are just hired as a Sr. Data Scientist at City of Chicago. You manager, mayor, Mr. 
 Emanuel, asked you to download the dataset from  https://www.kaggle.com/chicago/chicago-taxi-rides-2016. 
